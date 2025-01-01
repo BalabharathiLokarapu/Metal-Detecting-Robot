@@ -1,4 +1,7 @@
 # Metal-Detecting-Robot
+# Updated README for Metal-Detecting-Robot
+This is a new update to the README file.
+
 
 The Metal Detecting Robot is an innovative project designed to identify metal objects using a proximity sensor. The robot utilizes an Arduino Uno for control and a motor driver for movement. When a metal object is detected, the robot halts its movement, ensuring safety and precision.
 
